@@ -1,0 +1,388 @@
+ls
+pwd
+history
+ks
+ls
+pwd
+ls -l -a
+ls
+pwd
+skdl
+ks
+x=/home
+cd $x
+pwd
+cd $x/mohamed
+pwd
+ls
+pwd
+echo sd    $x
+help
+ls
+pwd
+done.....................
+df
+df
+pwd
+cd ~
+pwd
+ls
+pwd
+cd ~
+hello
+done EL7
+history
+exit
+tdf
+df
+ps
+ls
+pwd
+ps
+sld
+sd
+df
+ls -l
+x=/home
+cd $x
+pwd
+ls
+pwd
+ps
+ls
+pwd
+echo e
+ls
+pwd
+ls
+pwd
+ls
+pwd
+ls -a &
+ps
+echo $PATH
+echo $HOME
+echo FILE_DIR
+echo $FILE_DIR
+echo $FILE_DIR
+x=$PATH/$FILE_DIR
+echo $x
+ls
+PATH=1
+echo $PATH
+ls
+$PATH
+echo $PATH
+echo $PATH
+ls
+PATH=1
+echo $PATH
+ls
+pwd
+cd ..
+cd ~
+pwd
+echo $HOME
+HOME=7
+echo $HOME
+cd ~
+echo $HOME
+HOME=8
+echo $HOME
+ls
+pwd
+PATH=7
+ls
+echo $PATH
+echo $HOME
+HOME=8
+echo $HOME
+echo $FILE_DIR
+FILE_DIR = 9
+FILE_DIR=9
+cd ~
+cd /home
+n=$PATH
+echo $n
+ls
+pwd
+echo $PATH
+n=$PATH
+y=$n/$HOME
+echo $HOME
+ls
+pwd
+ls
+pwd
+x=12
+y=6
+pwd
+pwd
+ls
+x=12
+y=6
+z=$x/$y
+echo $z
+echo $x
+cd ~
+ls -a
+x=1
+y=2
+z=$x/$y
+echo $z
+[wd
+pwd
+n=$PATH
+echo $n
+$PATH=7
+ls
+PATH=7
+ls
+pwd
+ls
+PATH=7
+echo $PATH
+ls
+pwd
+cpy=$PATH/$HOME
+echo $cpy
+cd $cpy
+cd $HOME
+pwd
+n=$PATH
+echo $n
+PATH=2
+ls
+pwd
+PATH=2
+echo $PATH
+ls
+PATH=7
+ls
+pwd
+ls
+pwd
+cd ~
+pwd
+n=PATH
+echo $n
+n=$PATH
+echo $n
+n=$n/$n
+echo $n
+n=$PATH
+echo $n
+PATH=7
+ls
+ls
+ls
+/bin/ls
+ls
+PATH=2
+ls
+echo $PATH
+PATH=3
+ls
+/bin/ls
+ls
+printenv
+printenv
+echo 12
+help
+history
+history
+pwd
+help
+exit
+exit
+exit
+exit
+cd ..
+pwd
+ls
+pwd
+pwd
+echo sdk
+help
+history
+echo dsdfj &
+exit
+pwd
+ls
+pwd
+ps
+echo sdk
+exit
+exit
+exit
+ls
+pwd
+exit
+exit
+pwd
+ls
+echo hello
+echo "hello       world"
+echo $PATH
+ls
+ls -a
+exit
+exit
+exit
+exit
+ls
+pwd
+ps
+echo sd
+echo $PATH
+cd ~
+pwd
+path=$PATH/Desktop/shell
+echo $path
+exit
+exit
+exit
+exit
+exit
+exit
+ls
+pwd
+echo dfk
+help
+cd ~
+pwd
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+path=12
+echo $path
+echo $PATH
+path=12
+echo $path
+x=12
+echo $x
+exit
+exit
+p=12
+echo $p
+echo $PATH
+x=12
+y=6
+z=$x/$y
+echo $z
+ls
+x=12
+echo $x
+y=6
+z=$x/$y
+echo "$z*$x"
+x="df  df"
+echo $x
+x="$y$z"
+echo $x
+ls
+pwd
+ps
+echo hello
+printenv
+ls &
+pwd &
+ls
+exit
+x=12
+y=6 z=$x/$y
+echo $z
+ls &
+ls
+pwd
+echo hello
+gedit &
+ls &
+pwd &
+ls
+ls
+pwd
+ps &
+ls
+ls -a
+pwd
+ls &
+ps
+ls
+pwd
+ps &
+ls
+ls
+ps
+pwd
+ls
+ls
+pwd
+pwd &
+ls
+ls
+pwd
+ls
+pwd
+pwd &
+ls
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+/bin/ls -l
+vim
+/bin/ls -l -a
+gedit &
+ps
+bin/ps
+pwd
+printenv
+h=$HOME
+p=$PATH d=$FILE_DIR
+echo $HOME            $PATH            $FILE_DIR
+echo $h               $p                $d
+echo "$h          $d           $p"
+cd ~
+pwd
+cd /home/mohamed/Desktop
+pwd
+cd ~mohamed
+pwd
+cd ~mohamed_temp
+pwd
+cd $HOME
+pwd
+cd $FILE_DIR
+pwd
+cd $HOME/Desktop/shell
+pwd
+x=1 y=2 z=3
+sum=$x+$y+$z
+echo $sum
+name="mohamed murad shafiq"
+age=21
+mail=mohamedmorad.masry129@gmail.com
+echo $name , $age , $mail
+help
+history
+exit
+pwd
+cd ..
+pwd
+mkdir cs333
+touch cs333/lab1.txt
+cd ~/cs333
+cd ../
+pwd
+#kdnskf

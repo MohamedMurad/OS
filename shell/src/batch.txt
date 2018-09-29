@@ -1,0 +1,5 @@
+ls -l
+x=12 y=6
+echo $x/$y
+cd ~
+pwd
